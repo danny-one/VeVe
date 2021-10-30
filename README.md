@@ -21,6 +21,11 @@ HOW-TO:
 a. At your own risk, the sheet passwords are "VeVe" if you want to edit!
 
 
+Caveats:
+- It's not clear if multiple comic series grants additional bonuses, so the calculation isn't there
+- Comic rarities are assumed to grant the same bonus as collectibles
+
+
 Under Consideration:
 - Add serial number for low mint count
 - Add drop/market purchase flag for one-time points
