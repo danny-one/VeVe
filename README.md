@@ -11,6 +11,7 @@ Item data from Butt Thompson's famous market tables with two corrections:
 
 With advice from Jeomite
 
+
 HOW-TO:
 1. Enter your comics and collectibles in the green tabs - MUST use the exact name
     The sheet will auto-populate the rarity, set/series, and points for you!
@@ -19,6 +20,7 @@ HOW-TO:
 5. Optionally: enter a second collection to compare what would happen if you made some moves using the blue tabs (collection 2)
 a. At your own risk, the sheet passwords are "VeVe" if you want to edit!
 
-TO DO:
+
+Under Consideration:
 - Add serial number for low mint count
 - Add drop/market purchase flag for one-time points
